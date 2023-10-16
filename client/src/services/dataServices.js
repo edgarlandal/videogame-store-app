@@ -6,6 +6,8 @@ class DataService {
       src: "./img/games/God_of_War.webp",
       _id: "1",
     },
+ 
+    
   ];
 
   getProducts() {
